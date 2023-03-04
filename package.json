@@ -5,9 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "nodemon node run index.js",
-    "start": "node run index.js"
+    "start:dev": "nodemon node run index.js"
   },
   "author": "",
   "license": "ISC",

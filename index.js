@@ -77,5 +77,5 @@ app.get("/salt", (req, res) => {
 
 
 // listen on port
-const port = 3080
+const port = 3000
 app.listen(port, () => console.log(`Server running at http://localhost:${port}`));
